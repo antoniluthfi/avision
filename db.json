@@ -14,9 +14,9 @@
     {"id":12,"first_name":"Seven-banded armadillo","last_name":"Dasypus septemcincus","image":"img/Dasypus septemcincus.jpg","link":"https://en.wikipedia.org/wiki/Seven-banded_armadillo"},
     {"id":13,"first_name":"Blacksmith lapwing","last_name":"Vanellus armatus","image":"img/Vanellus armatus.jpg","link":"https://en.wikipedia.org/wiki/Blacksmith_lapwing"},
     {"id":14,"first_name":"Common myna","last_name":"Acridotheres tristis","image":"img/Acridotheres tristis.jpg","link":"https://en.wikipedia.org/wiki/Common_myna"},
-    {"id":15,"first_name":"African Buffalo","last_name":"Syncerus caffer","image":"img/Syncerus caffer.jpg","link":"https://en.wikipedia.org/wiki/African_buffalo"},
+    {"id":15,"first_name":"African Buffalo","last_name":"Syncerus caffer","image":"img/Snycerus caffer.jpg","link":"https://en.wikipedia.org/wiki/African_buffalo"},
     {"id":16,"first_name":"Southern hairy-nosed wombat","last_name":"Lasiorhinus latifrons","image":"img/Lasiorhinus latifrons.jpg","link":"https://en.wikipedia.org/wiki/Southern_hairy-nosed_wombat"},
-    {"id":17,"first_name":"Tayra","last_name":"Eira barbara","image":"img/Eira barbara.jpg","link":"https://en.wikipedia.org/wiki/Tayra"},
+    {"id":17,"first_name":"Tayra","last_name":"Eira barbara","image":"img/Eira barbata.jpg","link":"https://en.wikipedia.org/wiki/Tayra"},
     {"id":18,"first_name":"Common eland","last_name":"Taurotragus oryx","image":"img/Taurotagus oryx.jpg","link":"https://en.wikipedia.org/wiki/Common_eland"},
     {"id":19,"first_name":"Arabian Camel","last_name":"Camelus dromedarius","image":"img/Camelus dromedarius.jpg","link":"https://en.wikipedia.org/wiki/Dromedary"},
     {"id":20,"first_name":"Blue crane","last_name":"Anthropoides paradisea","image":"img/Anthropoides paradisea.jpg","link":"https://en.wikipedia.org/wiki/Blue_crane"}
