@@ -1,4 +1,6 @@
 {
+"error": false,
+"message": "success",
 "animals": [
     {"id":1,"first_name":"Hering Griffon","last_name":"Gyps fulvus","image":"img/Gyps fulvus.jpg","link":"https://id.wikipedia.org/wiki/Hering"},
     {"id":2,"first_name":"Smith's bush squirrel","last_name":"Paraxerus cepapi","image":"img/Paraxerus cepapi.jpg","link":"https://en.wikipedia.org/wiki/Smith%27s_bush_squirrel"},
