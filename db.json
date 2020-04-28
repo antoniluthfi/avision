@@ -1,6 +1,6 @@
 {
 "animals": [
-    {"id":1,"first_name":"Hering Griffon","last_name":"Gyps fulvus","image":"../src/img/Gyps fulvus.jpg","link":"https://id.wikipedia.org/wiki/Hering"},
+    {"id":1,"first_name":"Hering Griffon","last_name":"Gyps fulvus","image":"https://images.app.goo.gl/AgprbWJiDjwx3N247","link":"https://id.wikipedia.org/wiki/Hering"},
     {"id":2,"first_name":"Smith's bush squirrel","last_name":"Paraxerus cepapi","image":"../src/img/Paraxerus cepapi.jpg","link":"https://en.wikipedia.org/wiki/Smith%27s_bush_squirrel"},
     {"id":3,"first_name":"Chuckwalla","last_name":"Sauromalus obesus","image":"../src/img/Sauromalus obesus.jpg","link":"https://commons.wikimedia.org/wiki/Sauromalus_obesus"},
     {"id":4,"first_name":"Snow Monkey","last_name":"Macaca fuscata","image":"../src/img/Macaca fuscata.jpg","link":"https://en.wikipedia.org/wiki/Japanese_macaque"},
