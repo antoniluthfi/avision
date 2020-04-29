@@ -1,6 +1,6 @@
 {
 "animals": [
-    {"id":1,"first_name":"Hering Griffon","last_name":"Gyps fulvus","image":"/img/Gyps fulvus.jpg","link":"https://id.wikipedia.org/wiki/Hering","class":"Aves","family":"Accipitridae","ordo":"Accipitriformes"},
+    {"id":1,"first_name":"Hering Griffon","last_name":"Gyps fulvus","image":"/img/gyps fulvus.jpg","link":"https://id.wikipedia.org/wiki/Hering","class":"Aves","family":"Accipitridae","ordo":"Accipitriformes"},
     {"id":2,"first_name":"Smith's Bush Squirrel","last_name":"Paraxerus cepapi","image":"/img/Paraxerus cepapi.jpg","link":"https://en.wikipedia.org/wiki/Smith%27s_bush_squirrel","class":"Mammalia","family":"Sciuridae","ordo":"Rodentia"},
     {"id":3,"first_name":"Chuckwalla","last_name":"Sauromalus obesus","image":"/img/Sauromalus obesus.jpg","link":"https://commons.wikimedia.org/wiki/Sauromalus_obesus","class":"Reptilia","family":"Iguanidae","ordo":"Squamata"},
     {"id":4,"first_name":"Snow Monkey","last_name":"Macaca fuscata","image":"/img/Macaca fuscata.jpg","link":"https://en.wikipedia.org/wiki/Japanese_macaque","class":"Mammalia","family":"Cercopithecidae","ordo":"Primates"},
